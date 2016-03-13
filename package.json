@@ -2,19 +2,11 @@
   "name": "expressentrywebapp",
   "version": "0.1.1",
   "description": "model web app for comp231 final project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
+   "repository": {
+   "type": "git",
     "url": "git+https://github.com/chemceem/ExpressEntrySystem.git"
   },
   "author": "anjith, ashti, chemcee, johanna, manpreet",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chemceem/ExpressEntrySystem/issues"
-  },
    "dependencies": {
       "express": "^4.13.4",
       "morgan" : "~1.3.0",
@@ -22,6 +14,5 @@
       "body-parser":"~1.8.0",
       "method-override":"~2.2.0",
       "ejs" : "~1.0.0"
-  },
-  //"homepage": "https://github.com/chemceem/ExpressEntrySystem#readme"
+  }
 }
